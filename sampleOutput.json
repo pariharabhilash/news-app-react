@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 210,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Eric Slivka",
+    "title": "Kuo: Apple's Mixed-Reality Headset Likely to Debut at Spring Media Event or WWDC",
+    "description": "Analyst Ming-Chi Kuo said in a tweet thread today that ongoing delays with development of Apple's mixed-reality headset have likely pushed mass shipment of the device back to the end of the second quarter or into the third quarter of this year.\n\nConcept rende…",
+    "url": "https://www.macrumors.com/2023/01/05/kuo-headset-debut-spring-event-wwdc/",
+    "urlToImage": "https://images.macrumors.com/t/5FCFjsNQJCL9dBjMtKcEdpAOaas=/1600x/article-new/2021/12/apple-ar-headset-concept-2.jpeg",
+    "publishedAt": "2023-01-06T04:17:57Z",
+    "content": "Analyst Ming-Chi Kuo said in a tweet thread today that ongoing delays with development of Apple's mixed-reality headset have likely pushed mass shipment of the device back to the end of the second qu… [+1004 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "José María López",
+    "title": "Como instalar las máquinas virtuales gratuitas de Windows 11",
+    "description": "Una queja recurrente sobre Windows ha sido siempre su precio. De ahí que desde tiempos inmemoriales circularan números de serie, licencias y parches varios para tener el sistema operativo de Microsoft gratis. Y aunque desde Redmond han intentado solventar est…",
+    "url": "http://hipertextual.com/2023/01/maquinas-virtuales-oficiales-windows-11",
+    "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/01/Windows-11.jpg?fit=2560%2C1440&quality=60&strip=all&ssl=1",
+    "publishedAt": "2023-01-06T04:20:57Z",
+    "content": "Una queja recurrente sobre Windows ha sido siempre su precio. De ahí que desde tiempos inmemoriales circularan números de serie, licencias y parches varios para tener el sistema operativo de Microsof… [+6324 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Quick-lint-js.com"
+    },
+    "author": null,
+    "title": "C++ vs. Rust Build Times",
+    "description": "A practical comparison of build and test speed between C++ and Rust.",
+    "url": "https://quick-lint-js.com/blog/cpp-vs-rust-build-times/",
+    "urlToImage": "cpp-vs-rust.jpg",
+    "publishedAt": "2023-01-06T05:21:19Z",
+    "content": "A practical comparison of build and test speed between C++ and Rust.\r\nWritten by strager on\r\n 2023-01-05\r\nC++ is notorious for its slow build times. “My code's\r\n compiling” is a meme in the programmi… [+31695 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Robin Brand",
+    "title": "CES: Sennheiser Conversation Clear Plus: Als In-Ears getarnte Hörhilfe",
+    "description": "Sennheisers neue In-Ears helfen, in lauten Umgebungen Gespräche zu führen. Beim Ausprobieren offenbaren sie auch Talente im Bespitzeln fremder Unterhaltungen.",
+    "url": "https://www.heise.de/news/Sennheiser-Conversation-Clear-Plus-Als-In-Ears-getarnte-Hoerhilfe-7450201.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/7/4/7/0/5/SCH_Conversation_Clear_Plus_Mood_PKF4122_16x9-58084bc7b27fc5a9.jpg",
+    "publishedAt": "2023-01-06T04:03:00Z",
+    "content": "Mitte 2021 hat Sonova die Kopfhörer-Sparte von Sennheiser übernommen. Auf der diesjährigen CES haben die Schweizer als ein erstes Resultat der Zusammenarbeit eine für Sennheiser neue Produktkategorie… [+3259 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "WhatsApp will now let users connect through a proxy to bypass internet censorship",
+    "description": "WhatsApp is certainly one of the most popular messaging apps in the world, and it’s available in a lot of different countries. However, the app is blocked in some regions due to local internet censorship. But Meta now wants to challenge these restrictions, as…",
+    "url": "https://9to5mac.com/2023/01/05/whatsapp-proxy-bypass-censorship/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/07/whatsapp-generic-ios.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-01-06T01:54:50Z",
+    "content": "WhatsApp is certainly one of the most popular messaging apps in the world, and it’s available in a lot of different countries. However, the app is blocked in some regions due to local internet censor… [+2060 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Amber Neely)",
+    "title": "Kuo predicts spring debut for Apple mixed-reality headset",
+    "description": "Analyst Ming-Chi Kuo has revised his prediction for the official debut of the highly anticipated Apple augmented reality device, suggesting that the company will now announce it in spring 2023.According to the analyst, Apple still faces delays with its mixed-…",
+    "url": "https://appleinsider.com/articles/23/01/06/kuo-predicts-spring-debut-for-apple-mixed-reality-device",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/49777-97523-apple-ar-headset-xl.jpg",
+    "publishedAt": "2023-01-06T04:44:53Z",
+    "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nAnalyst Ming-Chi Kuo has revised his prediction for the official debut of the highly anticipated Apple augm… [+1529 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Christine McKee)",
+    "title": "Apple's M2 MacBook Air with 16GB RAM is $150 off & in stock",
+    "description": "The triple-digit M2 MacBook Air discounts offer the cheapest prices on the upgraded models with a 10-core GPU. And both the 256GB and 512GB configurations are in stock.Save $150 instantly.Apple Authorized Resellers B&H Photo and Adorama are both hosting speci…",
+    "url": "https://appleinsider.com/articles/23/01/06/apples-m2-macbook-air-with-16gb-ram-is-150-off-in-stock",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52314-104217-macbook-air-m2-space-gray-xl.jpg",
+    "publishedAt": "2023-01-06T00:14:48Z",
+    "content": "Save $150 instantly.\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nThe triple-digit M2 MacBook Air discounts offer the cheapest prices on the upgraded m… [+4892 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Yanko Design"
+    },
+    "author": "JC Torres",
+    "title": "The Best of CES 2023: The Future of Better Living Today",
+    "description": "The Best of CES 2023: The Future of Better Living TodayStarting the year right often involves putting your best foot forward. For most people, that means making New Year’s resolutions that they hope won’t get...",
+    "url": "https://www.yankodesign.com/2023/01/05/the-best-of-ces-2023-the-future-of-better-living-today/",
+    "urlToImage": "https://www.yankodesign.com/images/design_news/2023/01/the-best-of-ces-2023-the-future-of-better-living-today/Hero_best-of-CES-2023.jpg",
+    "publishedAt": "2023-01-06T03:00:58Z",
+    "content": "Starting the year right often involves putting your best foot forward. For most people, that means making New Year’s resolutions that they hope won’t get broken after just a few weeks. For those play… [+42764 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "HYPEBEAST"
+    },
+    "author": "info@hypebeast.com (Hypebeast)",
+    "title": "NBA YoungBoy Rings in the New Year With 'I Rest My Case'",
+    "description": "YoungBoy Never Broke Again continues his steady stream of releases with I Rest My Case.Clocking in at approximately 40 minutes, the 19-track record features no guest appearances and includes the previously-released singles \"Top Girls,\" \"Black\" and \"Groovy.\" I…",
+    "url": "https://hypebeast.com/2023/1/nba-youngboy-never-broke-again-i-rest-my-case-album-stream",
+    "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F01%2Fnba-youngboy-never-broke-again-i-rest-my-case-album-stream-tw.jpg?w=960&cbr=1&q=90&fit=max",
+    "publishedAt": "2023-01-06T05:00:49Z",
+    "content": "YoungBoy Never Broke Again continues his steady stream of releases with I Rest My Case.\r\nClocking in at approximately 40 minutes, the 19-track record features no guest appearances and includes the pr… [+880 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "BGR"
+    },
+    "author": "Christian de Looper",
+    "title": "BGR’s best of CES 2023",
+    "description": "CES is back, and in a big way. While CES 2022 marked a return for the big show after a break for COVID, many companies …\nThe post BGR’s best of CES 2023 appeared first on BGR.",
+    "url": "https://bgr.com/tech/bgrs-best-of-ces-2023/",
+    "urlToImage": "https://bgr.com/wp-content/uploads/2023/01/2023-BGR-Best_Of_Show-FINAL.png",
+    "publishedAt": "2023-01-06T00:58:13Z",
+    "content": "CES is back, and in a big way. While CES 2022 marked a return for the big show after a break for COVID, many companies and publications pulled out at the last minute, and as a result it was a little…… [+5767 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "heyimjoew@gmail.com (Joe Wituschek)",
+    "title": "Apple Card will cover your Wall Street Journal subscription for a year",
+    "description": "Apple has announced that new Apple Card customers can get $55 in Daily Cash to cover a subscription to the Wall Street Journal.",
+    "url": "https://www.imore.com/apple/apple-card-will-cover-your-wall-street-journal-subscription-for-a-year",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/NV8gCi6avt8XNsX2sqZNmP-1200-80.png",
+    "publishedAt": "2023-01-06T00:40:47Z",
+    "content": "Apple Card is offering a free year of The Wall Street Journal for new subscribers, but there are some very obvious asterisks on how that is happening.\r\nIn a targeted email, Apple began informing cust… [+1527 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "heyimjoew@gmail.com (Joe Wituschek)",
+    "title": "Apple TV Plus drops the official trailer for season three of Truth Be Told",
+    "description": "Apple TV Plus has released the official trailer for season three of Truth Be Told, which will premiere on January 20.",
+    "url": "https://www.imore.com/music-movies-tv/apple-tv/apple-tv-plus-drops-the-official-trailer-for-season-three-of-truth-be-told",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/Crt2CLKCdr7Srjf9dh9YiV-1200-80.jpg",
+    "publishedAt": "2023-01-06T02:00:55Z",
+    "content": "Truth Be Told is coming back soon and has a brand-new trailer to prove it.\r\nToday, Apple reiterated that the third season of Truth Be Told, which will star Academy Award winner Octavia Spencer and Ga… [+1551 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "heyimjoew@gmail.com (Joe Wituschek)",
+    "title": "Qualcomm seeks to beat Apple's Emergency SOS via satellite feature with Snapdragon Satellite",
+    "description": "Qualcomm has announced Snapdragon Satellite, a new feature to enable satellite messaging for Android phones.",
+    "url": "https://www.imore.com/iphone/qualcomm-seeks-to-beat-apples-emergency-sos-via-satellite-feature-with-snapdragon-satellite",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/nJpUjeukV2y7W43ctKrQLb-1200-80.jpeg",
+    "publishedAt": "2023-01-06T01:12:12Z",
+    "content": "Qualcomm, one of the leading developers of mobile communication technologies, has announced that it will be releasing a new satellite messaging feature to compete with Apple's recently released versi… [+1624 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Srad.jp"
+    },
+    "author": "nagazou",
+    "title": "次世代ワイヤレス給電規格『Qi2』(チーツー)発表",
+    "description": "Wireless Power Consortium（WPC）は3日、無線給電規格「Qi2（チーツー）」を発表した。Qi2はAppleの給電技術「MagSafe」をベースに構築され、2023年の年末商戦(ホリデーシーズン)に対応機器やスマートフォンが発売予定となっているという（ITmedia、Impress Watch）。 \n\nQi2の実現にあたりAppleは、MagSafeの技術基盤を提供。WPCの他のメンバーと共に、Qi2のコアとなる「Magnetic Power Profile」を開発した。Magnetic …",
+    "url": "https://hardware.srad.jp/story/23/01/05/1255217/",
+    "urlToImage": "https://srad.jp/static/topics/power_64.png",
+    "publishedAt": "2023-01-06T03:00:00Z",
+    "content": "Wireless Power ConsortiumWPC3Qi2Qi2AppleMagSafe2023()ITmediaImpress WatchQi2AppleMagSafeWPCQi2Magnetic Power ProfileMagnetic Power ProfileQi2"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Ifanr.com"
+    },
+    "author": "何, 嘉昕",
+    "title": "早报 | 小米首款车或 26-30 万起售/张伯礼解读 XBB 会否引起二次感染/比亚迪百万级新车发布",
+    "description": "苹果或成今年 3nm 芯片唯一玩家\n乐视新机形似 iPhone 14 Pro#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+    "url": "https://www.ifanr.com/1530253",
+    "urlToImage": "https://s3.ifanr.com/wp-content/uploads/2023/01/1-2.jpg",
+    "publishedAt": "2023-01-06T00:38:22Z",
+    "content": "<ul><li> XBB </li><li>U8</li><li> 26 </li><li>AMD 7045 </li><li> BMW i Vision Dee </li><li> Ride Flex </li><li>CES 2023 </li><li></li><li> 1.8 </li><li></li><li> 3nm </li><li> GT Neo5 240W </li><li> … [+1414 chars]"
+    },
+    {
+    "source":{
+    "id": "al-jazeera-english",
+    "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "Samsung says it expects lowest quarterly profit in 8 years",
+    "description": "South Korean tech giant blames weak demand for memory chips for sharp decline in profits.",
+    "url": "https://www.aljazeera.com/economy/2023/1/6/samsung-says-it-expects-lowest-quarterly-profit-in-8-years",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/07/2011-10-28T120000Z_451094219_GM1E7AS119A02_RTRMADP_3_SAMSUNG-1.jpg?resize=1920%2C1440",
+    "publishedAt": "2023-01-06T04:42:10Z",
+    "content": "Samsung Electronics is expecting its worst fourth-quarter profit in eight years amid a sharp decline in global demand for memory chips and smartphones.\r\nProfits are estimated to have plunged by 69 pe… [+1779 chars]"
+    },
+    {
+    "source":{
+    "id": "bloomberg",
+    "name": "Bloomberg"
+    },
+    "author": null,
+    "title": "Next China: Cattle Class",
+    "description": "It’s tough being an investment banker in Xi Jinping’s China.",
+    "url": "https://www.bloomberg.com/news/newsletters/2023-01-06/budget-hotels-await-china-bankers-as-travel-perks-targeted",
+    "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipGIF1.d4tHc/v0/1200x801.jpg",
+    "publishedAt": "2023-01-06T04:00:45Z",
+    "content": "Its tough being an investment banker in Xi Jinpings China. \r\nGone are the days of unlimited expense accounts, wining and dining clients at high-end clubs and now, even flying business class.\r\nIn line… [+8979 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Justcreative.com"
+    },
+    "author": "Jacob Cass",
+    "title": "7+ Best iPad Mini Keyboards in 2023 (January)",
+    "description": "A list of the best iPad Mini keyboards from where you can choose the best as per your needs.",
+    "url": "https://justcreative.com/ipad-mini-keyboards/",
+    "urlToImage": "https://justcreative.com/wp-content/uploads/2022/08/ipad-mini-keyboards.png",
+    "publishedAt": "2023-01-06T04:00:54Z",
+    "content": "A list of the best iPad Mini keyboards from where you can choose the best as per your needs.\r\nEven though the iPad has a virtual keyboard, it is beneficial to use a physical keyboard. You can attach … [+9461 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Digiday"
+    },
+    "author": "Krystal Scanlon",
+    "title": "Meta’s been blasted by the EU privacy watchdog for breaching GDPR — now what?",
+    "description": "Hefty fine to pay aside, what will Meta's new plan to comply with GDPR be, and will this cause a ripple effect of similar actions across the pond and with other social platforms?",
+    "url": "http://digiday.com/marketing/metas-been-blasted-by-the-eu-privacy-watchdog-for-breaching-gdpr-now-what/",
+    "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2018/07/GDPRmonster.jpg",
+    "publishedAt": "2023-01-06T05:01:00Z",
+    "content": "It turns out that Meta has been illegally forcing users to accept personalized ads across Facebook and Instagram for years — at least that’s the case in Europe. Earlier this week, Ireland’s Data Prot… [+7877 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Appbank.net"
+    },
+    "author": "テクノロジー記事班",
+    "title": "M2 Ultra搭載「Mac Pro」や新型「MacBook Pro」など６製品が3月Appleイベントで発表されるとのウワサ",
+    "description": "Appleが3月に開催するイベントで、5台のMacが発表されるというリークが登場しています。 *Category:テクノロジー Technology *Source：Cult Of Mac ,LeaksApplePro( […]",
+    "url": "https://www.appbank.net/2023/01/06/technology/2370621.php",
+    "urlToImage": "https://www.appbank.net/wp-content/uploads/2023/01/2023-0105-Mac-thumb-1.jpeg",
+    "publishedAt": "2023-01-06T02:48:57Z",
+    "content": "Apple35Mac\r\n*Category:\r\n Technology *SourceCult Of Mac ,LeaksApplePro(HowToiSolve)\r\nApple2022MacApple3Mac\r\nLeaksApplePro3Mac miniMac Pro15MacBook Air14/16MacBook Pro5\r\nAppleMac ProMac Pro2019\r\nCult O… [+175 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Livedoor.biz"
+    },
+    "author": "news4vip2",
+    "title": "【画像】アメリカ「見て見て！新しいUSB規格つくったよー！」→結果ｗｗｗ",
+    "description": "1: 以下、ニュー速クオリティでお送りします  2022/09/02(金) 12:54:51.70 ID:pobSL3dK0● BE:394757614-2BP(2000)  「USB4 Version 2.0」はUSB4の倍速    米Intelや米Appleら業界大手7社が中心となるUSB推進団体、USB Promoter Groupは9月1日、  次世代USBアーキテクチャで",
+    "url": "http://news4vip.livedoor.biz/archives/52475361.html",
+    "urlToImage": "https://livedoor.blogimg.jp/news4vip2/imgs/c/7/c7ab2234.jpg",
+    "publishedAt": "2023-01-06T02:15:49Z",
+    "content": "USB4 Version 2.0USB4 IntelApple7USBUSB Promoter Group91 USBUSB4 Version 2.0USB5 \r\nUSB4Type-CUSB4280Gbps USBUSB Implementers ForumUSB-IF 11USB DevDays \r\nUSB Type-C \r\nUSB4 Version 2.0 40Gbps USB Type-C… [+150 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "Laurin Meyer, Holger Zschäpitz",
+    "title": "Krisenfester Dividendenboom und Geldverdienen mit Gleichheits-ETF",
+    "description": "In der heutigen Folge „Alles auf Aktien“ sprechen die Finanzjournalisten Laurin Meyer und Holger Zschäpitz über den tückischen Job-Motor der USA, eine Meme-Aktie vor der Pleite und eines der wertvollsten Start-ups der Welt.",
+    "url": "https://www.welt.de/podcasts/alles-auf-aktien/article243054005/Alles-auf-Aktien-Dividendenrekord-im-Dax.html",
+    "urlToImage": "https://img.welt.de/img/podcasts/alles-auf-aktien/mobile242980107/5641354997-ci16x9-w1200/Alles-auf-Aktien-heute-mit-Holger-Zschaepitz-und-Laurin-Meyer-v.jpg",
+    "publishedAt": "2023-01-06T04:03:00Z",
+    "content": "Außerdem geht es um Tesla, Amazon, Alphabet, Sentinel One, Cloudflare, Crowdstrike, Datadog, Snowflake, Bed Bath &amp; Beyond, Mercedes-Benz, Morphosys, Synlab, Porsche, Adidas, Continental, Covestro… [+826 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "Olaf Gersemann",
+    "title": "„1000 Tote in vier Tagen“",
+    "description": "Was kommt nach der Herbstwelle? Olaf Gersemann erklärt und bewertet kurz und kompakt die aktuellen Zahlen. Alles, was Sie am 6. Januar wissen müssen.",
+    "url": "https://www.welt.de/wirtschaft/article238812729/Corona-Zahlen-Freitag-der-6-1-2023-1000-Tote-in-vier-Tagen.html",
+    "urlToImage": "https://img.welt.de/img/wirtschaft/mobile238857427/4581352087-ci16x9-w1200/DWO-Teaser-30sek-Corona-Olaf-aw-jpg.jpg",
+    "publishedAt": "2023-01-06T05:09:21Z",
+    "content": "262 Corona-Tote sind dem RKI gestern gemeldet worden.\r\nBinnen vier Tagen sind damit 1053 Verstorbene registriert worden.\r\nDer 7-Tage-Schnitt steigt auf 171, das ist der höchste Wert seit Anfang Novem… [+1417 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "WELT",
+    "title": "Selenskyj hält angekündigte Waffenruhe für einen „Deckmantel“",
+    "description": "Nach der Ankündigung einer vorübergehenden Waffenruhe stellt Präsident Wolodymyr Selenskyj die russischen Motive infrage. Er wirft Putin vor, das orthodoxe Weihnachtsfest zu nutzen, um den ukrainischen Vormarsch zu stoppen. Mehr im Liveticker.",
+    "url": "https://www.welt.de/politik/ausland/article243054235/Ukraine-News-Selenskyj-sieht-Waffenruhe-als-Deckmantel.html",
+    "urlToImage": "https://img.welt.de/img/politik/ausland/mobile243054255/3241353037-ci16x9-w1200/Ein-Held-fuer-die-Welt.jpg",
+    "publishedAt": "2023-01-06T05:26:43Z",
+    "content": "Der ukrainische Präsident Wolodymyr Selenskyj hat skeptisch auf die Anordnung einer Waffenruhe in der Ukraine zum orthodoxen Weihnachtsfest durch den russischen Präsidenten Wladimir Putin reagiert. I… [+3510 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "Diana Pieper",
+    "title": "„Rot-Grün-Rot diskutiert mehr über Rassismus in der Polizei als über Angriffe auf Beamte“",
+    "description": "Ahmad Mansour wird Mitglied des Wahlkampfteams der Berliner FDP. Mit Blick auf die Silvester-Gewalt gegen Einsatzkräfte setzt der Psychologe eine grundsätzliche Neuausrichtung der Integrationsarbeit auf seine Agenda. Bei Rot-Grün-Rot sieht er nur Symbolpoliti…",
+    "url": "https://www.welt.de/politik/deutschland/article243047511/Berlin-Wahl-Ahmad-Mansour-unterstuetzt-Sebastian-Czajas-FDP.html",
+    "urlToImage": "https://img.welt.de/img/politik/deutschland/mobile243047675/3561356677-ci16x9-w1200/Amad-Mansur-4.jpg",
+    "publishedAt": "2023-01-06T00:07:43Z",
+    "content": "Der Psychologe und Autor Ahmad Mansour unterstützt die Berliner FDP im Vorfeld der Abgeordnetenhauswahl am 12. Februar. Auch darüber hinaus wird er das Führungsteam der Liberalen künftig bei Bildungs… [+5847 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Karapaia.com"
+    },
+    "author": "scarletmiddletones18",
+    "title": "猛吹雪で身動きの取れない人々の命を救うため、学校に押し入り24人を避難させた男性",
+    "description": "#authors_store {font-family: -apple-system,BlinkMacSystemFont,Roboto,\"游ゴシック体\",YuGothic,\"Yu Gothic Medium\",sans-serif;}#authors_store .article-header .article-title {font-size: 19px;line-height: 1.3;}#authors_store .content > header {position: relat...",
+    "url": "https://karapaia.com/archives/52319071.html",
+    "urlToImage": "https://livedoor.blogimg.jp/karapaia_zaeega/imgs/1/1/114a8423.jpg",
+    "publishedAt": "2023-01-06T06:00:18Z",
+    "content": "20\r\nBuffalo Hero Breaks School Window Leading Strangers to Safety From Blizzard | NBC New York\r\n1223\r\n27\r\n24\r\n12238\r\nSNS\r\nReferences:Cops Find Man Who Broke into N.Y. School to Save Motorists Strande… [+76 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Businessinsider.de"
+    },
+    "author": "Pamela Rauleder",
+    "title": "CES 2023: Das sind die außergewöhnlichsten Gadgets",
+    "description": "Tech-Hersteller zeigen in Las Vegas Baby-Wearables, E-Ink-Autos und humanoide Roboter. Außerdem: US-Investor Battery Ventures übernimmt Fuhrparkmanagement-Startups Vimcar und Avrios und weitere Entlassungen in der Krypto-Branche.",
+    "url": "https://www.businessinsider.de/gruenderszene/business/ces-2023-das-sind-die-aussergewoehnlichsten-gadgets/",
+    "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2023/01/GettyImages-1453885152.jpg?ver=1672979131",
+    "publishedAt": "2023-01-06T04:55:00Z",
+    "content": "Tech-Hersteller zeigen in Las Vegas Baby-Wearables, E-Ink-Autos und humanoide Roboter. Außerdem: US-Investor Battery Ventures übernimmt Fuhrparkmanagement-Startups Vimcar und Avrios und weitere Entla… [+6113 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Businessinsider.de"
+    },
+    "author": "Nina Anika Klotz",
+    "title": "Diese Allgäuer machen Millionenumsätze – auf Supermarktparkplätzen",
+    "description": "Vor drei Jahren gründeten zwei Männer in Kempten Numbat – heute verhandeln sie Deals mit den größten Handelsunternehmen Deutschlands.",
+    "url": "https://www.businessinsider.de/gruenderszene/automotive-mobility/diese-allgaeuer-machen-millionenumsaetze-auf-supermarktparkplaetzen-g/",
+    "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2022/11/Gruender-mit-Team-_Finanzierungsrunde58-scaled.jpg?ver=1669821044",
+    "publishedAt": "2023-01-06T03:00:00Z",
+    "content": "Diese Allgäuer machen Millionenumsätze auf Supermarktparkplätzen\r\nVor drei Jahren gründeten zwei Männer in Kempten Numbat, ein Startup, das Schnellladesäulen mit Batteriespeicher macht. Heute verhand… [+8270 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "9to5google.com"
+    },
+    "author": "Abner Li",
+    "title": "YouTube Music poll lets you vote on what free feature you most want [U]",
+    "description": "Team YouTube on Twitter is running a poll this afternoon on “what feature do you want the most on ad-supported” YouTube Music.\n more…\nThe post YouTube Music poll lets you vote on what free feature you most want [U] appeared first on 9to5Google.",
+    "url": "https://9to5google.com/2023/01/05/youtube-music-feature-poll/",
+    "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2018/07/YouTube-Music-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-01-06T04:32:00Z",
+    "content": "Team YouTube on Twitter is running a poll this afternoon on “what feature do you want the most on ad-supported” YouTube Music.\r\nUpdate 1/5/23: Background play won by a clear majority in December, but… [+2203 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "Larry Magid, Senior Contributor, \n Larry Magid, Senior Contributor\n https://www.forbes.com/sites/larrymagid/",
+    "title": "Protect Yourself From Scams In 2023",
+    "description": "Another year, another set of scams.",
+    "url": "https://www.forbes.com/sites/larrymagid/2023/01/05/protect-yourself-from-scams-in-2023/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200",
+    "publishedAt": "2023-01-06T01:22:53Z",
+    "content": "Another year, another set of scams. ZDNet, for example, has a report about Android malware that can steal your passwords and break into your online banking apps. Ill spare you the details but as with… [+4172 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "Barry Collins, Contributor, \n Barry Collins, Contributor\n https://www.forbes.com/sites/barrycollins/",
+    "title": "I’ve Seen The Future Of AR Glasses At CES 2023 - And It’s Amazing",
+    "description": "Augmented reality glasses are set to arrive early this year from big-name manufacturers - and here's a sneak peek of what to expect",
+    "url": "https://www.forbes.com/sites/barrycollins/2023/01/05/ive-seen-the-future-of-ar-glasses-at-ces-2023and-its-amazing/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63b769c2d2f93b59c884da4d/0x0.jpg?format=jpg&width=1200",
+    "publishedAt": "2023-01-06T00:24:51Z",
+    "content": "The Z-Lens can fit into a regularly sized pair of glasses\r\nLumus\r\nAugmented reality glasses are going to be big in 2023, and I've been given a sneak preview of the technology that will power the glas… [+3954 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "3dnews.ru"
+    },
+    "author": null,
+    "title": "Qualcomm и Iridium объединили усилия, готовясь обеспечить пользователям ОС Android отправку сообщений через спутники",
+    "description": "Разработчик передовых чипсетов Qualcomm и оператор спутниковой связи Iridium Communications обеспечат обмен сообщениями с помощью спутниковой группировки. Функция будет доступна пользователям смартфонов премиум-уровня на операционной системе Android. Источник…",
+    "url": "https://3dnews.ru/1079874/qualcomm-i-iridium-obedinili-usiliya-gotovyas-obespechit-polzovatelyam-os-android-obmen-soobshcheniyami-cherez-sputniki",
+    "urlToImage": "https://3dnews.ru/assets/external/illustrations/2023/01/06/1079874/sm.cropped1.750.jpg",
+    "publishedAt": "2023-01-06T05:00:00Z",
+    "content": "Qualcomm Iridium Communications . - Android.\r\n: Iridium\r\n, Apple , — , Wi-Fi. Qualcomm, .\r\n Qualcomm, Snapdragon Satellite 2023 , Snapdragon 8 .\r\n, Snapdragon Satellite , , — , Reuters, Qualcomm , .\r… [+22 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "vn_ninja@yahoo.com (vn_ninja), vn_ninja",
+    "title": "Google kêu gọi Apple đừng “phạm sai lầm” và hãy áp dụng RCS trong quảng cáo mới",
+    "description": "Google đang tiếp tục với chiến dịch #GetTheMessage nhằm thuyết phục Apple áp dụng giao thức nhắn tin RCS, lần này là một đoạn quảng cáo có chủ đề Năm Mới tại Harmon Corner ở Las Vegas. \n \nĐoạn quảng cáo chạy trên màn hình lớn có nội dung như sau:…",
+    "url": "https://tinhte.vn/thread/google-keu-goi-apple-dung-pham-sai-lam-va-hay-ap-dung-rcs-trong-quang-cao-moi.3620985/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/01/6288999_cover_Android_Apple_Quang_Cao_RCS_tinhte.jpg",
+    "publishedAt": "2023-01-06T00:57:51Z",
+    "content": "nhm thuyt phc Apple áp dng giao thc nhn tin RCS, ln này là mt on qung cáo có ch Nm Mi ti Harmon Corner Las Vegas. on qung cáo chy trên màn hình ln có ni dung nh sau: Xin chào Apple, Android ây. Qu bó… [+1441 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "WBRC"
+    },
+    "author": "Tristan Ruppert",
+    "title": "Birmingham PD investigator offers tips to drivers and business owners for preventing car break-ins - WBRC",
+    "description": "On the heels of a series of car break-ins at St. Vincent’s East, WBRC is talking with law enforcement to learn more about the issue.",
+    "url": "https://www.wbrc.com/2023/01/06/birmingham-pd-investigator-offers-tips-drivers-business-owners-preventing-car-break-ins/",
+    "urlToImage": "https://gray-wbrc-prod.cdn.arcpublishing.com/resizer/wg280SaU8_zwhUEUPH2l3a4kFRM=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/E4DIWJ4OIBH6DJWKVDLPLOAISY.jpg",
+    "publishedAt": "2023-01-06T03:17:00Z",
+    "content": "BIRMINGHAM, Ala. (WBRC) - On the heels of a series of car break-ins at St. Vincents East, WBRC is talking with law enforcement to learn more about the issue.\r\nFor drivers, experts said it is simple -… [+1519 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "WHAS11.com"
+    },
+    "author": "Bobbi McSwine",
+    "title": "Minority business owners graduate from year-long Louisville program - WHAS11.com",
+    "description": "AMPED hosts the year-long program called The Russell Technology Business Incubator (RTBI).",
+    "url": "https://www.whas11.com/article/money/business/small-business/amped-russell-technology-business-incubator-rtbi-graduation-louisville-kentucky/417-1843d240-c2fe-4281-ac58-33ba7a9d3580",
+    "urlToImage": "https://media.whas11.com/assets/WHAS/images/b7def7b2-b3b2-4ae9-883b-0ecc591b4be8/b7def7b2-b3b2-4ae9-883b-0ecc591b4be8_1140x641.jpg",
+    "publishedAt": "2023-01-06T05:28:00Z",
+    "content": "LOUISVILLE, Ky. Thursday night, several minority business owners in Louisville were celebrated as they graduated from a program focused on helping them succeed.\r\nAMPED, a local organization that prov… [+1903 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Nodejs.org"
+    },
+    "author": "Danielle Adams",
+    "title": "Node v18.13.0 (LTS)",
+    "description": "Notable changesAdd support for externally shared js builtinsBy default Node.js is built so that all dependencies are bundled into the Node.js binary itself. Some Node.js distributions prefer to manage dependencies externally. There are existing build options …",
+    "url": "https://nodejs.org/en/blog/release/v18.13.0/",
+    "urlToImage": "https://nodejs.org/static/images/logo-hexagon-card.png",
+    "publishedAt": "2023-01-06T01:01:33Z",
+    "content": "by Danielle Adams, 2023-01-06\r\nBy default Node.js is built so that all dependencies are bundled into the Node.js binary itself. Some Node.js distributions prefer to manage dependencies externally. Th… [+43395 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Seeking Alpha"
+    },
+    "author": "Wolf Report",
+    "title": "Eastman Kodak: Still A 'Zero'",
+    "description": "Eastman Kodak is a storied and unfortunate company in a very difficult position. Learn why you should stay away from KODK stock.",
+    "url": "https://seekingalpha.com/article/4568157-eastman-kodak-stock-sell",
+    "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/887855854/image_887855854.jpg?io=getty-c-w750",
+    "publishedAt": "2023-01-06T00:05:27Z",
+    "content": "Kokkai Ng/iStock Unreleased via Getty Images\r\nDear Readers/Followers,\r\n A reader asked me to take a second look at Kodak (NYSE:KODK). Why? Well, the company dropped 38%+ since I wrote my first piece.… [+11118 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Seeking Alpha"
+    },
+    "author": "SA Transcripts",
+    "title": "Luminar Technologies, Inc. (LAZR) Management Presents at J.P. Morgan 21st Annual Tech/Auto Forum Conference Call Transcript",
+    "description": "Luminar Technologies, Inc. (NASDAQ:NASDAQ:LAZR) J.P.",
+    "url": "https://seekingalpha.com/article/4568182-luminar-technologies-inc-lazr-management-presents-j-p-morgan-21st-annual-tech-auto-forum",
+    "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+    "publishedAt": "2023-01-06T01:45:25Z",
+    "content": "Luminar Technologies, Inc. (NASDAQ:LAZR) J.P. Morgan 21st Annual Tech/Auto Forum Conference Call January 5, 2023 5:00 PM ET\r\n Company Participants\r\n Austin Russell - Founder and Chief Executive Offic… [+31505 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Taisy0.com"
+    },
+    "author": "taisy0",
+    "title": "Appleが3月の発表イベントで新型｢Mac Pro｣など複数の新型Macを発表するとの噂",
+    "description": "HowToiSolveが、Appleは3月の発表イベントでAppleシリコンを搭載した新型「Mac Pro」を発表するようだと報じています。 また同時に、M2チップを搭載した新型「Mac mini」も登場する予定とのこと ...",
+    "url": "https://taisy0.com/2023/01/06/166763.html",
+    "urlToImage": "https://taisy0.com/wp-content/uploads/2021/06/th_MacPro2019.jpg",
+    "publishedAt": "2023-01-06T01:35:15Z",
+    "content": "(Mac Pro 2019)\r\nHowToiSolveApple3AppleMac Pro\r\nM2Mac mini\r\nMacBook Air 15M2MacBook Pro 14/16Apple\r\nLeaksAppleProApple””\r\n6WWDCMac ProWWDC"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Sspai.com"
+    },
+    "author": "少数派编辑部",
+    "title": "派早报：AMD 发布多款处理器与显卡新品、CES・派在现场等",
+    "description": "华硕笔记本发布多系列新品，Aqara 上线多款新品等查看全文",
+    "url": "https://sspai.com/post/77654",
+    "urlToImage": "1/6/2023/article/33cc1557-544e-dfb7-9d0a-dca0382cab0f.PNG",
+    "publishedAt": "2023-01-06T00:37:05Z",
+    "content": "AMD \r\n1 5 AMD CES 2023 3D 65W RX 7000 7040 7045 \r\n3D 3 16 32 144MB L2+L3 R9 7950X3D12 24 140MB L2+L3 R9 7900X3D 8 16 104MB L2+L3 R7 7800X3DAMD R7 7800X3D R7 5800X3D 25%AMD 3D 2023 2 \r\n65W 3 12 24 5.4… [+2919 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "SamMobile"
+    },
+    "author": "Asif Iqbal Shaik",
+    "title": "Samsung’s profit nosedives 70% in Q4 2022 due to low chip, smartphone sales",
+    "description": "Samsung has tough times ahead, similar to many other consumer electronic firms, including Apple. The South Korean firm announced its earnings guidance for Q4 2022, and according to the company’s internal estimates, its operating profit would be around KRW 4.3…",
+    "url": "https://www.sammobile.com/news/samsung-q4-2022-profit-drop-70-percent-low-chip-smartphone-sales/",
+    "urlToImage": "https://www.sammobile.com/wp-content/uploads/2020/04/samsung-logo-lawn-720x404.jpg",
+    "publishedAt": "2023-01-06T04:59:12Z",
+    "content": "Samsung has tough times ahead, similar to many other consumer electronic firms, including Apple. The South Korean firm announced its earnings guidance for Q4 2022, and according to the company’s inte… [+1700 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Macotakara.jp"
+    },
+    "author": "danbo",
+    "title": "CES 2023：Ember、探す対応温度調節可能スマートトラベルボトル「Travel Mug 2+」を発表",
+    "description": "Travel Mug 2+\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nEmber Technologiesが、CES2023において、Appleの探すに対応した温度調節可能スマートトラベルボトル「Travel Mug 2+」を2023年後半に発売すると発表しています。\nTravel Mug 2の後継モデルで、充電用のコースターなしで使った場合は、54.4℃の設定温度を3時間保持してくれます。\nバッテリーが切れたEmber Mu…",
+    "url": "https://www.macotakara.jp/etc/report/entry-44130.html",
+    "urlToImage": "https://www.macotakara.jp/archives/001/202301/d34554d123621fe7.jpg",
+    "publishedAt": "2023-01-06T05:44:28Z",
+    "content": "Ember TechnologiesCES2023AppleTravel Mug 2+2023\r\nTravel Mug 254.43\r\nEmber Mug2"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Unwire.hk"
+    },
+    "author": "唐美鳳",
+    "title": "AMD 發表 Ryzen 7040 處理器 聲稱效能可與 Apple M1 Pro 媲美",
+    "description": "晶片廠商 AMD 日前發表全新的處理器系列，在發佈會上 AMD 直接將 Apple 的 M1 Pro 和 M2 處理器拿來作對比，以顯示新處理器的實力。在 CES 消費者電子展期間發表的 Ryzen 7040 系列，AMD 聲稱這極致纖薄的處理器，人工智能運算較 Apple M2 快 20%。The post AMD 發表 Ryzen 7040 處理器 聲稱效能可與 Apple M1 Pro 媲美 appeared first on 香港 unwire.hk 玩生活．樂科技.",
+    "url": "https://unwire.hk/2023/01/06/amd-reveals-new-chip-that-can-rival-the-m1-pro/notebook/",
+    "urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2023/01/02-5.png",
+    "publishedAt": "2023-01-06T02:01:27Z",
+    "content": "AMD AMD Apple M1 Pro M2 CES Ryzen 7040 AMD Apple M2 20%\r\nRyzen 7040 Ultrathin 4nm 5.2GHz 8 16 AMD Ryzen 7040 M1 Pro 34% Apple Silicon AMD Ryzen 7040 30 \r\n AMD Ryzen 7040 M1 Pro M2 2021 10 M1 Max Appl… [+107 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Unwire.hk"
+    },
+    "author": "唐美鳳",
+    "title": "傳 Apple 將於 3 月舉行發佈會 M2 Ultra Mac Pro 等新機現身",
+    "description": "早前有外國媒體指 Apple 未有在 2022 年第四季發表 Mac 新產品，是打破了 2000 年至今的慣例，似乎 Apple 有意在今年 3 月一口氣發佈新的高階處理器，並且應用於全新的 MacBook 和其他 Mac 電腦。現時只有 13 吋 MacBook Air 和 MacBook Pro 採用 M2 處理器，但今年將會更加普及。The post 傳 Apple 將於 3 月舉行發佈會 M2 Ultra Mac Pro 等新機現身 appeared first on 香港 unwire.hk 玩生活．樂…",
+    "url": "https://unwire.hk/2023/01/06/apple-m2-macs-march/notebook/mac-os/",
+    "urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2023/01/03-5.png",
+    "publishedAt": "2023-01-06T02:01:25Z",
+    "content": "Apple 2022 Mac 2000 Apple 3 MacBook Mac 13 MacBook Air MacBook Pro M2 \r\n HowToiSolve LeaksApplePro 2022 M2 Pro M2 Max 14 16 MacBook Pro 15 MacBook M2 Ultra Mac Pro M2 M2 Pro Mac mini 3 \r\n Mac Pro M2 … [+155 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Unwire.hk"
+    },
+    "author": "藍骨",
+    "title": "LifeSmart 鉑悅開關 Blend Switch PRO (Metal)　金屬風格 + 支援智能家居",
+    "description": "喜歡高科技產品的朋友，裝修時智能家居當然要做到全套，入牆的開關掣也不例外。最近 LifeSmart 就推出 Blend Switch PRO (Metal)，結合簡約金屬面板設計，同時全面支援各種智能家居平台，功能更加實用。The post LifeSmart 鉑悅開關 Blend Switch PRO (Metal)　金屬風格 + 支援智能家居 appeared first on 香港 unwire.hk 玩生活．樂科技.",
+    "url": "https://unwire.hk/2023/01/06/lifesmart-blend-switch-pro-metal/wireless-home/",
+    "urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2023/01/lidesmart.png",
+    "publishedAt": "2023-01-06T04:09:43Z",
+    "content": "LifeSmart Blend Switch PRO (Metal)\r\nBlend Switch PRO (Metal) MacBook CNC\r\nBlend Switch PRO (Metal) DIY DIY 1600 \r\nLifeSmart APP (iOS/Android) Blend Switch PRO (Metal) Light Sensor Blend Switch PRO (M… [+304 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "STERN.de"
+    },
+    "author": "STERN.de",
+    "title": "Podcast : Silvester-Krawalle: \"Das ist kein reines Zuwanderungsproblem\"",
+    "description": "Angriffe auf Rettungskräfte sind durch nichts zu rechtfertigen. Doch die nach Silvester folgende Debatte zu einem angeblichen \"Integrationsproblem\" lasse ihn erschaudern, sagt der Kriminologe Nils Zurawski.",
+    "url": "https://www.stern.de/politik/heutewichtig/silvester-krawalle---das-ist-kein-reines-zuwanderungsproblem---33073070.html",
+    "urlToImage": "https://image.stern.de/33073120/t/e4/v1/w1440/r1.7778/-/heute-wichtig-silvester.jpg",
+    "publishedAt": "2023-01-06T05:21:00Z",
+    "content": "Angriffe auf Rettungskräfte sind durch nichts zu rechtfertigen. Doch die nach Silvester folgende Debatte zu einem angeblichen \"Integrationsproblem\" lasse ihn erschaudern, sagt der Kriminologe Nils Zu… [+5310 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "TidBITS"
+    },
+    "author": "Adam Engst",
+    "title": "Use Live Text to Digitize Your Cookbooks",
+    "description": "Faced with the desire to import recipes from his cookbooks into Paprika, Adam Engst discovers that iOS’s Live Text feature works wonders for scanning recipe text using his iPhone’s camera.",
+    "url": "https://tidbits.com/2023/01/05/use-live-text-to-digitize-your-cookbooks/",
+    "urlToImage": "https://tidbits.com/wp/../uploads/2023/01/The-Food-Lab-kale-salad-scaled.jpg",
+    "publishedAt": "2023-01-06T00:13:34Z",
+    "content": "I love cookbooks. Im a sucker for paging through them and trying to imagine how difficult recipes will be and what they will taste like. Some authors, like J. Kenji López-Alt and Deb Perelman, are tr… [+7040 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Tweakers.net"
+    },
+    "author": "Bart van Klaveren",
+    "title": "Calibre 6.11",
+    "description": "Versie 6.11 van Calibre is uitgekomen. Dit opensource-e-bookbeheerprogramma is beschikbaar voor Windows, Linux en macOS. Het kan onder meer alle relevante informatie en omslagafbeeldingen opzoeken, en e-boeken converteren om ze geschikt te maken voor de diver…",
+    "url": "https://tweakers.net/downloads/63054/calibre-611.html",
+    "urlToImage": "https://tweakers.net/i/4hjJAoEqdQuu2JcHNTh-JL-VHo4=/134x134/filters:strip_exif()/i/2004634830.png?f=meta",
+    "publishedAt": "2023-01-06T05:36:26Z",
+    "content": "Versie 6.11 van Calibre is uitgekomen. Dit opensource-e-bookbeheerprogramma is beschikbaar voor Windows, Linux en macOS. Het kan onder meer alle relevante informatie en omslagafbeeldingen opzoeken, e… [+3421 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "PR Newswire",
+    "title": "VIDAA Takes Aim at U.S. Market",
+    "description": "VIDAA, the smart TV operating system today announced that it has launched its new OS focused on the U.S. market on Hisense Smart TVs, following a large-scale...",
+    "url": "https://finance.yahoo.com/news/vidaa-takes-aim-u-market-004600573.html",
+    "urlToImage": "https://media.zenfs.com/en/prnewswire.com/5a19451be186bd87792c3cba0de91921",
+    "publishedAt": "2023-01-06T00:46:00Z",
+    "content": "VIDAA is Hisense's Preferred Smart TV OS and Is Now Available in 180 Countries and Territories\r\nNEW YORK, Jan. 6, 2023 /PRNewswire/ -- VIDAA, the smart TV operating system today announced that it has… [+3842 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Lupa.cz"
+    },
+    "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+    "title": "Platy ajťáků v Silicon Valley, Huawei propouští v Česku, aktualizace Windows zpět v Rusku",
+    "description": "První americké odbory Microsoftu. Čína utne penězovody do čipů. Nové procesory a GPU od AMD, Nvidie a Intelu. Zprávy z IT, každý pátek na Lupě.",
+    "url": "https://www.lupa.cz/clanky/platy-ajtaku-v-silicon-valley-huawei-propousti-v-cesku-aktualizace-windows-zpet-v-rusku/",
+    "urlToImage": "https://i.iinfo.cz/images/38/doom_watermark-lupa-cz.jpg",
+    "publishedAt": "2023-01-06T05:30:01Z",
+    "content": "Vdy v pátek pipravuje reportér Jan Sedlák výbr zajímavých zpráv ze svta IT. Co se událo v tomto týdnu?\r\nVyel report shrnující platy poítaových inenýr v Silicon Valley. Principal Engineer se dokáe dos… [+7339 chars]"
+    },
+    {
+    "source":{
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Cardinals Wire",
+    "title": "Cardinals signed WRs Auden Tate, Isaiah Coulter to practice squad",
+    "description": "The Cardinals make a couple of roster moves on the practice squad.",
+    "url": "https://cardswire.usatoday.com/2023/01/05/cardinals-signed-wrs-auden-tate-isaiah-coulter-to-practice-squad/",
+    "urlToImage": "https://media.zenfs.com/en/arizona_cardinals_wire_usa_today_sports_articles_662/5d22e8ab44b6f72326c220c1f78e34d0",
+    "publishedAt": "2023-01-06T00:43:57Z",
+    "content": "With DeAndre Hopkins injured and not playing in the Arizona Cardinals finale this weekend, the team made some roster moves on the practice squad.\r\nThe team announced this week that it signed receiver… [+1015 chars]"
+    },
+    {
+    "source":{
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Cardinals Wire",
+    "title": "Cardinals adjust cap hit for J.J. Watt’s contract in 2023",
+    "description": "The Cardinals technically gave him a contract extension so he can be released as a post-June 1 designation to save $5M in cap space in 2023.",
+    "url": "https://cardswire.usatoday.com/2023/01/05/cardinals-adjust-cap-hit-for-j-j-watts-contract-in-2023/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/eg8EaoBeE_DlHM8.fRAGPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/arizona_cardinals_wire_usa_today_sports_articles_662/b8041e535cdc27c82635b327da35c9f4",
+    "publishedAt": "2023-01-06T00:14:55Z",
+    "content": "Defensive end J.J. Watt will retire at the conclusion of the season and, as explained in this post last week, because of void years on the end of his two-year contract and performance bonuses earned … [+1017 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Moneycontrol"
+    },
+    "author": "PTI",
+    "title": "Andhra Pradesh govt inviting Elon Musk, Tim Cook, Jeff Bezos for Investors Summit in Visakhapatnam",
+    "description": "Fifteen Union Ministers, 15 Chief Ministers, 44 global industrialists, 53 Indian industry bigwigs and ambassadors of various countries are being invited for the two-day event on which the Y S Jagan Mohan Reddy government is betting big to attract large-scale …",
+    "url": "https://www.moneycontrol.com/news/business/andhra-pradesh-govt-inviting-elon-musk-tim-cook-jeff-bezos-for-investors-summit-in-visakhapatnam-9820001.html",
+    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/04/pjimage-50-770x433.jpg",
+    "publishedAt": "2023-01-06T03:54:20Z",
+    "content": "Prime Minister Narendra Modi, Apple CEO Tim Cook, Tesla CEO Elon Musk, Google CEO Sundar Pichai, Microsoft Executive Chairman and CEO Satya Nadella are on the invitees list of the Andhra Pradesh gove… [+3364 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Technews.tw"
+    },
+    "author": "邱 倢芯",
+    "title": "iOS 16 限制，串流內容不能再用 HDMI 播 DRM 內容",
+    "description": "有許多用戶注意到，在手機升級為 iOS 16 作業系統後，舊款 Apple TV 無法再透過 AirPlay 的方式來播放受到數位版權管理（DRM）限制的內容。 什麼是受到 DRM 限制的內容？簡單來說就是數位版權內容出版商得以限制消費者對於其數位內容的使用方式，出版商可以限制重播條件、使用條件，以...",
+    "url": "https://technews.tw/2023/01/06/ios-16-hdmi-drm-airplay/",
+    "urlToImage": "https://img.technews.tw/wp-content/uploads/2021/11/29141125/cardmapr-RQ8zOzo-x_k-unsplash-e1638166302601.jpg",
+    "publishedAt": "2023-01-06T04:00:10Z",
+    "content": "iOS 16 Apple TV AirPlay DRM\r\n DRM \r\n iOS 16 Lightning to HDMI NetflixAmazon Prime Video HBO Max \r\nSource\r\n Reddit Netflix Netflix iOS 16 HDMI\r\n Netflix iOS 16 DRM Apple TV \r\n AirPlay Apple TV 2 Apple… [+54 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Gizmodo Australia"
+    },
+    "author": "Ky Stewart",
+    "title": "The Most Streamed Movies and TV Shows of 2022 in Australia",
+    "description": "2022 was a big year for streaming services, so here are the top 10 most streamed movies and TV shows of the year, according to JustWatch.\nThe post The Most Streamed Movies and TV Shows of 2022 in Australia appeared first on Gizmodo Australia.\n\n  Related Stori…",
+    "url": "https://www.gizmodo.com.au/2023/01/most-streamed-movies-and-tv-shows/",
+    "urlToImage": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/01/06/Untitled-design-31.jpg?quality=80&resize=1280,720",
+    "publishedAt": "2023-01-06T02:39:36Z",
+    "content": "At Gizmodo, we independently select and write about stuff we love and think you'll like too. We have affiliate and advertising partnerships, which means we may collect a share of sales or other compe… [+6717 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Moneycontrol"
+    },
+    "author": "Bloomberg",
+    "title": "Samsung profit tumbles in historic drop on chip price falls",
+    "description": "Operating profit fell to 4.3 trillion won ($3.4 billion) for the three months ended December, according to a company statement, missing the average estimate of 6.7 trillion won by analysts.",
+    "url": "https://www.moneycontrol.com/news/world/international-results/samsung-profit-tumbles-in-historic-drop-on-chip-price-falls-9819361.html",
+    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/09/samsung-770x433.png",
+    "publishedAt": "2023-01-06T02:04:32Z",
+    "content": "Samsung Electronics Co.s profit dropped by 69% in its worst fall in more than a decade, as an economic slowdown pummeled memory chip prices and demand for IT gadgets and servers.\r\nOperating profit fe… [+3394 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Ixbt.com"
+    },
+    "author": "jin@ixbt.com (Jin)",
+    "title": "Экраны некоторых iPhone 14 Pro и iPhone 14 Pro Max быстро выгорают в районе Dynamic Island. Это не единичный случай",
+    "description": "Пользователи смартфонов iPhone 14 Pro и iPhone 14 Pro Max сообщают о том, что экраны новых флагманов быстро выгорают в районе выреза Dynamic Island. На представленных фотографиях показано, что вокруг небольшого выреза явно видно остаточное изображение. Напомн…",
+    "url": "https://www.ixbt.com/news/2023/01/06/iphone-14-pro-iphone-14-pro-max-dynamic-island.html",
+    "urlToImage": "https://www.ixbt.com/img/n1/news/2023/0/5/s_a3c609d83e2c41e1b9e5fae0f181d14d_large.jpg",
+    "publishedAt": "2023-01-06T05:35:00Z",
+    "content": "iPhone 14 Pro iPhone 14 Pro Max , Dynamic Island.\r\n , . , , .\r\n , Apple , . Apple Care+, .\r\n , iPhone 14 Pro , Dynamic Island.\r\n , . Apple ."
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone14 Plus 5G智能手机 128GB 5919元包邮",
+    "description": "玩家之道6.7英寸刘海屏，满血A15处理器。天猫精选此款目前活动售价5919元。",
+    "url": "https://www.smzdm.com/p/69996164/",
+    "urlToImage": "https://y.zdmimg.com/202209/08/6319547ee49fd3125.jpg_d250.jpg",
+    "publishedAt": "2023-01-06T04:39:32Z",
+    "content": "iPhone 14 miniiPhone 14 Plus6.7 A15 \r\n iPhone 14 6.72778*1284458ppi8001200100%DCI-P360Hz\r\niPhone 14 Plus A15 16 \r\niPhone 14 1200//1.51.949%12MP/1.938%\r\niPhone 14"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 14 Pro Max 5G智能手机 128GB 8739.01元包邮（需用券）",
+    "description": "玩家之道iPhone 14系列旗舰超大杯，全新「灵动岛」设计，性能、影像大升级。京东此款目前活动售价8909.01元，下单领取170元优惠券，实付低至8739.01元包邮。还有银色、深空黑、暗夜紫等颜色可选。小编核实补充：该商品属于完税商品，不需要进行实名认证、提供资料并且不扣个人保税额...",
+    "url": "https://www.smzdm.com/p/70006356/",
+    "urlToImage": "https://qny.smzdm.com/202301/06/63b7ad71b8b4d2629.png_d250.jpg",
+    "publishedAt": "2023-01-06T05:20:05Z",
+    "content": "iPhone 14 Pro Max 6.72796*1290460PPIApp1000HDR16002000 ProMotion Super Retina XDR 1 Hz120 HzAlways-On\r\niPhone 14 ProA164nm160 6 CPU A1520%A16 Bionic 5 GPU 50% 16 17 iPhone 14 Pro Max 29iPhone 14\r\niPh… [+51 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "百亿补贴：Apple 苹果 iPad Pro 2022款 11英寸平板电脑 256GB WLAN版 6649元包邮",
+    "description": "拼多多此款目前活动售价6649元，近期好价。",
+    "url": "https://www.smzdm.com/p/70003006/",
+    "urlToImage": "https://qny.smzdm.com/202301/06/63b79e32247777779.jpg_d250.jpg",
+    "publishedAt": "2023-01-06T05:37:15Z",
+    "content": "2021iPad Pro2022Apple M2 8 10M115% 40%50%iPad Pro  3  ProRes 128GB256GB512GB8GB1TB16GB\r\n11 iPad Pro Liquid 600nit120Hz P3 1200ID\r\niPad Pro 202212001000ProRes HDR4\r\niPadOS 16APP\r\n2022 iPad Pro USB 4 4… [+69 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Appps.jp"
+    },
+    "author": "kenji",
+    "title": "Appleイベントを3月に開催？MacBook Proと一緒にMac ProやMac miniなどを発表？リーク情報",
+    "description": "Appleは例年第4四半期に新型Macを発表してきましたが、2022年は第4四半期に新型Macを発表しませんでした。Appleの有名なリーカーが、Appleが3月にイベントを開催し、大量の新型Macを発表することを計画していることをレポートし、話題になっています。",
+    "url": "https://www.appps.jp/373891/",
+    "urlToImage": "https://www.appps.jp/wp-content/uploads/2022/06/fs.jpg",
+    "publishedAt": "2023-01-06T01:12:06Z",
+    "content": "Apple4Mac20224Mac\r\nAppleApple3Mac\r\nCult of MacAppleLeaksAppleProHowToiSolveApple3\r\nLeaksAppleProApple3Mac\r\nEXCLUSIVE: Apple plans to launch at least 3 Macs this March.\r\nFull story here:https://t.co/4… [+351 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "Wontons",
+    "title": "Bref Toilet Cleaner Products $2.50 each ($2.25 w/ S&S) @ Amazon AU",
+    "description": "<ul>\n<li>Bref Deluxe Delicate Magnolia Rim Block Toilet Cleaner 50g</li>\n<li>Bref Blue Active Flower, Rim Block Toilet Cleaner, 50g</li>\n</ul>\n\nSome other products also available at $2.70 (with S&S):\n* Bref Scent Switch Juicy Peach/Sweet Apple, Rim Block Toil…",
+    "url": "https://www.ozbargain.com.au/node/749781",
+    "urlToImage": "https://files.ozbargain.com.au/n/81/749781l.jpg?h=22e20473",
+    "publishedAt": "2023-01-06T04:44:26Z",
+    "content": "All trademarks are owned by their respective owners.OzBargain is an independent community website which has no association with nor endorsement by the respective trademark owners.\r\nCopyright © 2006-2… [+32 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "mobiFlip.de"
+    },
+    "author": "Oliver Schwuchow",
+    "title": "Wann kommt das erste VR-Headset von Apple?",
+    "description": "In diesem Jahr sollen wir endlich das erste VR-Headset von Apple sehen, doch beim Zeitpunkt sind sich die Gerüchte nicht ganz einig. Was auch daran […]",
+    "url": "https://www.mobiflip.de/shortnews/wann-kommt-das-erste-vr-headset-von-apple/",
+    "urlToImage": "https://i0.wp.com/www.mobiflip.de/wp-content/uploads/2022/01/apple-vr-headset-header.jpg?fit=1200%2C780&ssl=1",
+    "publishedAt": "2023-01-06T06:00:40Z",
+    "content": "In diesem Jahr sollen wir endlich das erste VR-Headset von Apple sehen, doch beim Zeitpunkt sind sich die Gerüchte nicht ganz einig. Was auch daran liegen könnte, dass Apple es selbst nicht weiß, da … [+1345 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "mobiFlip.de"
+    },
+    "author": "Oliver Schwuchow",
+    "title": "Das neue Android Auto ist laut Google für alle da",
+    "description": "Google präsentierte im Mai letzten Jahres ein neues Design für Android Auto und wollte das eigentlich auch im Sommer 2022 verteilen. Doch das zögerte sich etwas hinaus und der Rollout begann erste Ende 2022.",
+    "url": "https://www.mobiflip.de/shortnews/neue-android-auto-google-update/",
+    "urlToImage": "https://i0.wp.com/www.mobiflip.de/wp-content/uploads/2023/01/android-auto-neu-google-header.jpg?fit=1200%2C840&ssl=1",
+    "publishedAt": "2023-01-06T05:34:19Z",
+    "content": "Google präsentierte im Mai letzten Jahres ein neues Design für Android Auto und wollte das eigentlich auch im Sommer 2022 verteilen. Doch das zögerte sich etwas hinaus und der Rollout begann erste En… [+972 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Applech2.com"
+    },
+    "author": "applech2",
+    "title": "AmazonでiPad (第10世代)でも利用可能な「Apple Pencil (第1世代)」が17%OFFセール中。",
+    "description": "AmazonでiPad (第6~10世代)で利用可能な「Apple Pencil (第1世代)」が17%OFFセールとなっています。詳細は以下から。 　Amazon.co.jpは日本時間2023年01月03日より、20\nThe post AmazonでiPad (第10世代)でも利用可能な「Apple Pencil (第1世代)」が17%OFFセール中。 first appeared on AAPL Ch..",
+    "url": "https://applech2.com/archives/20230106-apple-pencil-1gen-sale.html",
+    "urlToImage": "https://applech2.com/wp-content/uploads/2023/01/Apple-Pencil-1st-Gen-sale.jpg",
+    "publishedAt": "2023-01-06T00:23:03Z",
+    "content": "AmazoniPad (6~10)Apple Pencil (1)17%OFF\r\nAmazon.co.jp202301032023Apple Pencil (1)17%OFF\r\n: iPad678910*iPad 10USB-C Apple Pencil iPad mini5 iPad Air3 12.9iPad Pro12 10.5iPad Pro 9.7iPad Pro\r\nApple Pen… [+388 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "3dnews.ru"
+    },
+    "author": null,
+    "title": "HTC представила новую AR/VR-гарнитуру Vive XR Elite за $1099, не требующую подключения к внешним устройствам",
+    "description": "Компания HTC открыла предзаказы на новую гарнитуру дополненной и виртуальной реальности — Vive XR Elite. Новинка не требует подключения к смартфону, компьютеру или консоли и стоит $1099. Предполагается, что она будет конкурировать с устройствами вроде гарниту…",
+    "url": "https://3dnews.ru/1079872/htc-predstavila-novuyu-arvrgarnituru-vive-xr-elite-za-1099-ne-trebuyushchuyu-podklyucheniya-k-vneshnim-ustroystvam",
+    "urlToImage": "https://3dnews.ru/assets/external/illustrations/2023/01/06/1079872/456456675.jpg",
+    "publishedAt": "2023-01-06T04:39:00Z",
+    "content": "HTC — Vive XR Elite. , $1099. , Meta* Quest Apple, . , , HTC VR-. , « ».\r\n: HTC\r\nThe Verge, Vive XR Elite , , — 625 . Meta* Quest 2, , 722- Meta* Quest Pro. « » « ».\r\n XR Elite , 2023 . 2 , 110 , 90 … [+352 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Applech2.com"
+    },
+    "author": "applech2",
+    "title": "米Kensington、Mac Studioを盗難から防ぐセキュリティロック用アダプタ「Kensington Lock Designed for Mac Studio」を発売。",
+    "description": "米KensingtonがMac Studioを盗難から防ぐセキュリティロック「Kensington Lock Designed for Mac Studio」しています。詳細は以下から。 　Appleが2022年03月\nThe post 米Kensington、Mac Studioを盗難から防ぐセキュリティロック用アダプタ「Kensington Lock Designed for Mac Studio」を発売。 first appeared on AAPL Ch..",
+    "url": "https://applech2.com/archives/20230106-kensington-lock-designed-for-mac-studio.html",
+    "urlToImage": "https://applech2.com/wp-content/uploads/2023/01/Kensington-Lock-Designed-for-Mac-Studio-spec-1.jpg",
+    "publishedAt": "2023-01-06T01:32:48Z",
+    "content": "KensingtonMac StudioKensington Lock Designed for Mac Studio\r\nApple202203Mac Studio (2022)9.5 x 19.7 x 19.7cm2.7 (M1 Ultra3.6kg)Mac mini 3100278,800\r\nMac Studio (2022)\r\nKensingtonMac StudioKensington … [+453 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "ZDNet"
+    },
+    "author": "Maria Diaz",
+    "title": "ADT is finally embracing DIY home security",
+    "description": "The security company is also extending compatibility with some Google Nest products through a new mobile app, ADT+, announced at CES.",
+    "url": "https://www.zdnet.com/home-and-office/smart-home/adt-is-finally-embracing-diy-home-security/",
+    "urlToImage": "https://www.zdnet.com/a/img/resize/4ad915424e2f2e3402316426941633cfdd76af47/2023/01/05/1c55e8dc-b4f3-4a26-ba05-05bafe675761/adt-ces.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-01-06T00:58:19Z",
+    "content": "CES/ADT\r\nOld habits die hard -- and 148-year-old habits are certain to; that's how long ADT has been around. And even though it wasn't a security company when it was founded in 1874 (it used to be Am… [+2634 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "International Business Times"
+    },
+    "author": "Catherine Armecin",
+    "title": "Prince Harry 'Snapped' At Meghan Markle During Fight That Led Him To Seek Therapy",
+    "description": "Prince Harry said his wife told him she would not \"tolerate\" that behavior after he addressed her \"harshly\" during a fight.",
+    "url": "https://www.ibtimes.com/prince-harry-snapped-meghan-markle-during-fight-that-led-him-seek-therapy-3654070",
+    "urlToImage": "https://d.ibtimes.com/en/full/4402251/britains-prince-harry-meghan-duke-duchess-sussex-visit-one-world-trade-center-manhattan-new.jpg",
+    "publishedAt": "2023-01-06T04:48:21Z",
+    "content": "Reuters\r\nKEY POINTS\r\n<ul><li>Prince Harry recalled a blowout fight with Meghan Markle in his memoir \"Spare\"</li><li>Markle reportedly said something that Harry took the wrong way because he was \"over… [+2727 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "International Business Times"
+    },
+    "author": "Joyce Lee and Heekyong Yang",
+    "title": "Samsung Estimates Quarterly Profit Sank To 8-year Low On Demand Slump",
+    "description": "Samsung Electronics Co Ltd flagged on Friday its quarterly profit tumbled to an eight-year low as a weakening global economy hammered memory chip prices and curbed demand for electronic devices.",
+    "url": "https://www.ibtimes.com/samsung-estimates-quarterly-profit-sank-8-year-low-demand-slump-3654083",
+    "urlToImage": "https://d.ibtimes.com/en/full/4402568/logo-samsung-electronics-seen-its-office-building-seoul.jpg",
+    "publishedAt": "2023-01-06T02:12:44Z",
+    "content": "The logo of Samsung Electronics is seen at its office building in Seoul, South Korea South Korea, October 11, 2017. Reuters\r\nSamsung Electronics Co Ltd flagged on Friday its quarterly profit tumbled … [+2740 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "International Business Times"
+    },
+    "author": "Kristine Belonio",
+    "title": "Chris Noth Makes Rare Public Outing A Year After Sexual Assault Allegations Surfaced",
+    "description": "The embattled actor was photographed strolling in New York City this week.",
+    "url": "https://www.ibtimes.com/chris-noth-makes-rare-public-outing-year-after-sexual-assault-allegations-surfaced-3654040",
+    "urlToImage": "https://d.ibtimes.com/en/full/3361695/chris-noth-star-sex-city-has-denied-sexual-assault-allegations.jpg",
+    "publishedAt": "2023-01-06T01:06:54Z",
+    "content": "Chris Noth, star of \"Sex and the City,\" has denied sexual assault allegationsGETTY IMAGES NORTH AMERICA via AFP / Jason Merritt\r\nKEY POINTS\r\n<ul><li>Chris Noth flew solo when he went on a stroll in N… [+2744 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Formulatv.com"
+    },
+    "author": "Cèlia Gallego",
+    "title": "Nicole Kidman se une a 'Lioness', un thriller de espionaje del creador de 'Yellowstone'",
+    "description": "FICHAJE ESTELAR La actriz de 'Nine Perfect Strangers' ya era productora ejecutiva del proyecto.Nicole Kidman se une a 'Lioness', un thriller de espionaje del creador de 'Yellowstone'",
+    "url": "https://www.formulatv.com/noticias/nicole-kidman-fichaje-lioness-paramount-plus-120308/",
+    "urlToImage": "https://www.formulatv.com/images/articulos/120000/120308_gEJ8WYo5zm9aq43vFekL016gxiNtUR7c2-hog.jpg",
+    "publishedAt": "2023-01-06T04:22:00Z",
+    "content": "Nadie dice no a Taylor Sheridan. Todas las estrellas de Hollywood están cayendo bajo el influjo del creador de 'Yellowstone', desde Harrison Ford, Helen Mirren o Kevin Costner a Sylvester Stallone. L… [+2485 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Ryukoku.ac.jp"
+    },
+    "author": null,
+    "title": "パニックに注意：Linux Kernelのksmbdの脆弱性(Critical: CVE-2022-47939, CVE-2022-47940, CVE-2022-47942, Moderate: CVE-2022-47938, CVE-2022-47941)",
+    "description": "セキュリティホール memo - 各種 OS のセキュリティホールの備忘録",
+    "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2023/01.html#20230106_ksmbd",
+    "urlToImage": null,
+    "publishedAt": "2023-01-06T00:00:00Z",
+    "content": "Last modified: Fri Jan 6 11:50:53 2023\r\n +0900 (JST)URL: http://goo.gl/pwSGQR :\r\nhttp://goo.gl/pwSG.qr\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2022 |\r\n202… [+15395 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Computerwoche.de Live"
+    },
+    "author": "Christiane Pütter",
+    "title": "Innere Sicherheit ausstrahlen: 3 Ratschläge für eine gute Präsentation",
+    "description": "Was macht man vor Publikum mit den Händen, wo guckt man hin? Beraterin Ulla Wiegand gibt Tipps für einen gelungenen Vortrag.",
+    "url": "https://www.computerwoche.de/a/3-ratschlaege-fuer-eine-gute-praesentation,2892873?utm_source=Nach-Artikeltyp_1,30,119,124,125&utm_medium=RSS&utm_campaign=RSS-Feeds",
+    "urlToImage": "https://images.computerwoche.de/bdb/2705270/640x360.jpg",
+    "publishedAt": "2023-01-06T05:14:00Z",
+    "content": "Wie Sie einen guten Auftritt hinlegen können, lesen Sie in diesem Artikel.Foto: Pressmaster - shutterstock.com\r\nAls Musterbeispiel gelungenen Auftretens galt in der IT-Branche Steve Jobs. Der Apple-G… [+4265 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Freebuf.com"
+    },
+    "author": null,
+    "title": "法国对苹果公司处以 800 万欧元罚款，后者表示会上诉！",
+    "description": "苹果公司未经用户同意，在 App Store上收集用户数据，投放定向广告，被罚 800 万欧元。",
+    "url": "https://www.freebuf.com/articles/354472.html",
+    "urlToImage": null,
+    "publishedAt": "2023-01-06T03:11:24Z",
+    "content": "Bleeping Computer CNIL 800 App Store \r\nDPA 82 cookie Facebook 2 cookies CNIL Facebook 6000 1.5 \r\nCNIL \r\nCNIL iPhone 14.6 App Store App Store \r\nCNIL App Store iOS 14.6 iOS \r\n CNIL 800 CNIL \r\nCNIL App … [+149 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Les Numériques"
+    },
+    "author": "Rick",
+    "title": "Actualité : Bon plan – La tablette Tactile Apple iPad Pro 11\" (2021) Wi-fi à 879,12 € (-31%)",
+    "description": "La tablette Tactile Apple iPad Pro 11\" (2021) Wi-fi passe sous les 900 € chez Amazon soit une baisse d'environ 31% sur le prix habituellement constaté.",
+    "url": "https://www.lesnumeriques.com/tablette-tactile/bon-plan-la-tablette-tactile-apple-ipad-pro-11-2021-wi-fi-a-879-12-31-n202197.html",
+    "urlToImage": "https://cdn.lesnumeriques.com/optim/test/16/164557/1f31de59-apple-ipad-pro-11-2021-un-petit-format-ideal-debordant-de-puissance__1200_630__overflow_wtmk.jpeg",
+    "publishedAt": "2023-01-06T04:31:07Z",
+    "content": "Modèle concernéCe contenu porte spécifiquement sur le modèle : Wi-fi. D'autres déclinaisons existent et leurs prix sont indiqués dans les onglets du tableau ci-dessous.\r\nL'iPad Pro 11\" est une excell… [+1737 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Newsshooter"
+    },
+    "author": "Erik Naso",
+    "title": "OSEE Megamon 15 1000 nit 15″ Monitor Review",
+    "description": "The OSEE Megamon 15 is a 15.4″ 1000-nit Production Monitor with many great features at an affordable price of $899. The monitor is a 10-bit 8+2 FRC Mini-LED LCD and now has 1000 nits as opposed to the 800 nits in the original version. Yes, this is an improved…",
+    "url": "https://www.newsshooter.com/2023/01/05/osee-megamon-15-1000-nit-15-monitor-review/",
+    "urlToImage": "https://www.newsshooter.com/wp-content/uploads/2022/12/OSEE-Megamon-15_-thumbnail.jpg",
+    "publishedAt": "2023-01-06T00:12:43Z",
+    "content": "The OSEE Megamon 15 is a 15.4″ 1000-nit Production Monitor with many great features at an affordable price of $899. The monitor is a 10-bit 8+2 FRC Mini-LED LCD and now has 1000 nits as opposed to th… [+22871 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Overclockers.ru"
+    },
+    "author": null,
+    "title": "Стоит-ли брать iPad второго поколения в 2023 году - небольшой обзор и тест-драйв планшета",
+    "description": "Техника Apple пользуется определенным спросом даже будучи достаточно сильно устаревшей. В данном небольшом обзоре я расскажу, с чем предстоит столкнуться пользователю планшета iPad второго поколения в наше время.",
+    "url": "https://overclockers.ru/blog/iKutuzoff/show/82646/stoit-li-brat-ipad-vtorogo-pokoleniya-v-2023-godu-nebolshoj-obzor-i-test-drajv-plansheta",
+    "urlToImage": "https://overclockers.ru/st/legacy/blog/360526/347762_O.jpg",
+    "publishedAt": "2023-01-06T01:08:02Z",
+    "content": ". , ,   iPhone . iPad ( iPad 2) , - 2011 , , . \r\n ? \r\n, , . - , . , , : , , , , , , . , . ( ..), . : - Digma ( ), , / . , iPad, , , Apple, . ? iPad 2 , 2000-3000 , , .\r\n, 9,7 1024768, IPS. 12 , iPad … [+1284 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "te7373",
+    "title": "Apple、Apple Watchの12回分割払い金利0%キャンペーン実施中",
+    "description": "Appleは、Apple Store（店舗およびオンラインストア）において、Apple Watchの12回分割払いキャンペーンを実施しています。\n12回分割払いが金利0%で利用可能\nキャンペーンは、Apple Store（店舗およびオンラインストア）でApple Watchを購入する際に、「ペイディあと払いプランApple専用」を利用することで、12回分割払い金利が0%になるというものです。\n \nApple Watchの全モデルが対象となり、通常は分割回数3回までのApple Watchが、1月31日までのキャン…",
+    "url": "https://iphone-mania.jp/news-514892/",
+    "urlToImage": "https://iphone-mania.jp/uploads/2023/01/06/AppleWatch_s8.jpg",
+    "publishedAt": "2023-01-06T01:42:38Z",
+    "content": "AppleApple StoreApple Watch12120%\r\nApple StoreApple WatchApple120%Apple Watch3Apple Watch13112Apple Watch12\r\n<ul><li>Apple Watch Series 8 : 4,983</li><li>Apple Watch SE2 : 3,150</li><li>Apple Watch U… [+57 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "m7000",
+    "title": "Apple、10年以上賃借していたキャンパス「Results Way」を買い取り",
+    "description": "Appleが、2011年から借りていたカリフォルニア州クパチーノにあるオフィス兼研究施設「Apple Results Way Campus」を買い取ったと報じられました。\n「Apple Results Way Campus」を買い取り\nAppleは2011年、1 Infinite Loopにあった当時の本社から約2.5マイル（約4キロ）離れた場所にあるコンピュータ制御会社「Measurex」の建物を賃貸契約しました。「Results Way」と名付けられた373,000平方フィート（約10,482坪）のキャンパス…",
+    "url": "https://iphone-mania.jp/news-514882/",
+    "urlToImage": "https://iphone-mania.jp/uploads/2022/10/28/open_graph_logo.png",
+    "publishedAt": "2023-01-06T02:01:27Z",
+    "content": "Apple2011Apple Results Way CampusApple Results Way Campus\r\nApple20111 Infinite Loop2.54MeasurexResults Way373,00010,4821,300AppleSiliconValley.comApple20221223AppleSwift Realty PartnersApple20116Appl… [+79 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "lexi",
+    "title": "Appleの最初の看板、ウォズニアック氏の道具箱がオークションに出品",
+    "description": "Appleの共同創業者スティーブ・ジョブズ氏とスティーブ・ウォズニアック氏が「Apple Computer」をプロモートするために使用した、最初の看板が現在オークションにかけられています。加えて、エンジニアであるウォズニアック氏が使用していた道具箱も同時に出品されています。\n最初のApple看板の予想最高落札価格は2,700万円\nAppleの最初の看板が使用されたのは、1976年の初期の見本市で、その後看板はカリフォルニアの本社の外に数年間掲げられていたとのことです。看板はアイコニックな虹色のAppleロゴが特徴…",
+    "url": "https://iphone-mania.jp/news-514916/",
+    "urlToImage": "https://iphone-mania.jp/uploads/2023/01/06/H0171-L314903079_original.jpg",
+    "publishedAt": "2023-01-06T01:45:58Z",
+    "content": "AppleApple ComputerApple2,700\r\nApple1976Apple200,0002,700\r\nApple30,000 400\r\nSource:Alexander Historical Auctions (1), (2) via AppleInsider(lexi)"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "lexi",
+    "title": "仏当局、同意なしのApp Storeターゲット広告でAppleに800万ユーロの罰金",
+    "description": "Appleは、App Storeのターゲット広告で使用する識別子をデフォルトでユーザーの同意なしに自動的に端末に読み込んでいたとして、フランスの個人情報規制当局CNILから800万ユーロ（約11億2,300万円）の罰金を課されたことが明らかになりました。\niOS14.6でのApp Store広告が争点に\n仏当局CNILは、声明の中でAppleへの罰金理由について下記のように記しています。\n \n\niOSの旧バージョン14.6において、ユーザーがApp Storeにアクセスすると、App Storeに表示される広告を…",
+    "url": "https://iphone-mania.jp/news-514878/",
+    "urlToImage": "https://iphone-mania.jp/uploads/2022/11/29/Apple-App-Store-Awards-2022-Trophy.jpg",
+    "publishedAt": "2023-01-06T00:39:38Z",
+    "content": "AppleApp StoreCNIL800112,300iOS14.6App Store\r\nCNILApple\r\niOS14.6App StoreApp Store\r\n Apple\r\nApple Search AdsApple Search AdsWeb \r\n France DigitaleCNIL2021iOS14AppleSource:CNIL , @PatrickMcGee_/Twitte… [+31 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "FT729",
+    "title": "AR/VRヘッドセット開発に遅れ、新しい発表時期は？ミンチー・クオ氏",
+    "description": "アナリストのミンチー・クオ氏が、Appleの拡張現実（AR）/仮想現実（VR）ヘッドセットの開発に遅れが生じており、2023年1月に発表イベントを開催するのは困難とし、新たな発表時期と出荷時期の予想を伝えました。\n6月に発表後、9月末までに出荷開始か\nクオ氏は、AR/VRヘッドセットは2023年1月のイベントで発表されると予想していましたが、本体の落下試験で問題が確認されたこと、ソフトウェア開発ツールの問題を修正が必要なことから、開発計画に遅れが生じていると述べています。\n \nこうした状況から、今月中にイベントが…",
+    "url": "https://iphone-mania.jp/news-514946/",
+    "urlToImage": "https://iphone-mania.jp/uploads/2022/12/30/Apple-AR-VR-MR-headset-AC_1200.jpg",
+    "publishedAt": "2023-01-06T04:18:27Z",
+    "content": "(2/3)As a result, it is increasingly unlikely that Apple will hold a media event for the new device in January. At this point, it seems more likely that Apple will announce the AR/MR headset at a spr… [+123 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Kocpc.com.tw"
+    },
+    "author": "Ross Wang",
+    "title": "Android 手機將可以透過 Snapdragon Satellite 衛星傳訊",
+    "description": "相對於僅能傳訊緊急報警或以 Find My 功能回報位置的 Apple 衛星 SOS 緊急服務。這套由高通所提供的解決方案，還主打可以用來傳送一般的衛星文字訊息（應該也需要額外付費）。而既然目前的基本硬體需求是搭載 X70 modem 硬體的高通 SoC，想必距離我們應該不會太過遙遠吧？繼續閱讀 Android 手機將可以透過 Snapdragon Satellite 衛星傳訊報導內文。\nThe post Android 手機將可以透過 Snapdragon Satellite 衛星傳訊 appeared fir…",
+    "url": "https://www.kocpc.com.tw/archives/476357",
+    "urlToImage": "https://www.kocpc.com.tw/wp-content/uploads/2023/01/1672971868-463a64ef279f476ace0b6b7f445b2db2.png",
+    "publishedAt": "2023-01-06T02:30:25Z",
+    "content": "Apple iPhone 14 SOS Android CES 2023 Snapdragon Satellite – Garmin \r\n Find My Apple SOS X70 modem SoC Android Snapdragon Satellite Apple\r\nX70 modem Snapdragon Satellite Android next-generation premiu… [+212 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Kocpc.com.tw"
+    },
+    "author": "ClaireC",
+    "title": "什麼是 Matter 標準？智慧家居設備之間的共通語言",
+    "description": "從 2022 年 11 月首款支援 Matter 的產品推出以來，「Matter」這個名詞的能見度就越來越高了，近日開展的 CES 2023 中，智慧家居廠商所展出的新品與 Matter 似乎也有很深的連結，那麼 Matter 到底是什麼？現今智慧家居設備越來越普及，品牌、種類更是琳瑯滿目，Matter 在其中又扮演了什麼角色？\nThe post 什麼是 Matter 標準？智慧家居設備之間的共通語言 appeared first on 電腦王阿達.",
+    "url": "https://www.kocpc.com.tw/archives/476397",
+    "urlToImage": "https://www.kocpc.com.tw/wp-content/uploads/2023/01/1672983521-4efdd2f969559e8b1c92e99f32ded48e.jpg",
+    "publishedAt": "2023-01-06T05:48:27Z",
+    "content": "2022 11 Matter Matter CES 2023 Matter Matter Matter \r\n Matter \r\nGoogle HomeHomeKit Alexa ZigbeeZ-WaveWi-Fi Matter \r\n GoogleAppleAmazon CSAConnectivity Standards Alliance Matter AppleGoogle Amazon Sam… [+234 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Louder"
+    },
+    "author": "Classic Rock Magazine",
+    "title": "The true story of Thin Lizzy's classic Live And Dangerous - only in the new Classic Rock",
+    "description": "Also in this issue: Christine McVie, Dr Feelgood, Rush, Iggy Pop, The Darkness, Black Stone Cherry, Ugly Kid Joe, The Band, Ville Valo, Sam Ryder and more",
+    "url": "https://www.loudersound.com/news/the-true-story-of-thin-lizzys-classic-live-and-dangerous-only-in-the-new-classic-rock",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/xw5ccfrBSYfHPMvjNfAxEJ-1200-80.jpg",
+    "publishedAt": "2023-01-06T03:31:25Z",
+    "content": "Happy New Year! Welcome to the first issue of 2023. We’re hitting the ground running in terms of big album reissues this year, with the imminent appearance of a souped-up edition of a classic live re… [+4617 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Smartmania.cz"
+    },
+    "author": "Jakub Karásek",
+    "title": "AMD na CES: nové mobilní procesory a grafiky budou útočit na Intel a Nvidii",
+    "description": "Nové procesory a grafiky od AMD lákají na vyšší výkon Vyberou si hráči i nenároční uživatelé První počítače s novými procesory dorazí už příští měsíc Společnost AMD se připojila k Intelu a Nvidii a na veletrhu CES představila nové procesory a mobilní grafiky …",
+    "url": "https://smartmania.cz/?p=259095",
+    "urlToImage": "https://smartmania.cz/wp-content/uploads/2023/01/Ryzen.webp",
+    "publishedAt": "2023-01-06T05:00:42Z",
+    "content": "<ul><li>Nové procesory a grafiky od AMD lákají na vyí výkon</li><li>Vyberou si hrái i nenároní uivatelé</li><li>První poítae s novými procesory dorazí u pítí msíc</li></ul>Spolenost AMD se pipojila k… [+4577 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "BGR"
+    },
+    "author": "José Adorno",
+    "title": "Here’s how much battery life the iPhone 14 Pro’s Always-On display actually consumes",
+    "description": "One of the new features available with the iPhone 14 Pro is the Always-On display. Thanks to new panel technology alongside the A16 Bionic chip, …\nThe post Here’s how much battery life the iPhone 14 Pro’s Always-On display actually consumes appeared first on …",
+    "url": "https://bgr.com/tech/heres-how-much-battery-life-iphone-14-pro-always-on-display-actually-consumes/",
+    "urlToImage": "https://bgr.com/wp-content/uploads/2023/01/iphone-14-pro-always-on-display-bgr.jpg?quality=82&strip=all",
+    "publishedAt": "2023-01-06T00:52:00Z",
+    "content": "One of the new features available with the iPhone 14 Pro is the Always-On display. Thanks to new panel technology alongside the A16 Bionic chip, this screen can refresh just once per second, making i… [+1637 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Idnes.cz"
+    },
+    "author": "https://www.facebook.com/iDNES.cz",
+    "title": "Vykompenzuje Samsung vyšší cenu špičkových modelů větší pamětí?",
+    "description": "Premiéra trojice špičkových Samsungů řady S se blíží a tak se objevují další informace o novinkách. Tou poslední je zajímavá zpráva o tom, že Samsung plošně zvýší základní velikost vnitřní paměti.",
+    "url": "https://www.idnes.cz/mobil/telefony/samsung-s23-velikost-pameti-unik.A230103_235634_telefony_jm",
+    "urlToImage": "https://1gr.cz/tempimg/fb/2022/12/JM9865b9_fk0myvnagaite4h.jpg",
+    "publishedAt": "2023-01-06T00:08:00Z",
+    "content": "Smartphony stejn jako jiné zboí zdraují. To je prost realita po celém svt. Take lze pedpokládat, e Samsung upraví ceny nových model ady S23 smrem nahoru oproti ad minulé. Ta zaínala na ástce 21 990 k… [+1434 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Noticiasautomotivas.com.br"
+    },
+    "author": "Ricardo de Oliveira",
+    "title": "Nova Honda CRF 1100L Africa Twin 2023 parte de R$ 81.100",
+    "description": "A Nova Honda CRF 1100L Africa Twin 2023 chega ao mercado nacional como a big trail de sempre e com quatro versões, que partem de R$ 81.100.",
+    "url": "https://www.noticiasautomotivas.com.br/nova-honda-crf-1100l-africa-twin-2023-parte-de-r-81-100/",
+    "urlToImage": "https://images.noticiasautomotivas.com.br/img/f/africa-twin-2023-1.jpg",
+    "publishedAt": "2023-01-06T03:29:26Z",
+    "content": "A Nova Honda CRF 1100L Africa Twin 2023 chega ao mercado nacional como a big trail de sempre e com quatro versões, que partem de R$ 81.100.\r\nAventureira nata para subir os Andes, enfrentar o Atacama … [+2590 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Daemonology.net"
+    },
+    "author": null,
+    "title": "Daily Hacker News for 2023-01-05",
+    "description": "The 10 highest-rated articles on\nHacker News\non January 05, 2023 which have not appeared on any previous\nHacker News Daily\nare:\n<ul>\n<li>\n‘Breakthrough’ obesity drugs that have stunned researchers\n(comments)\n</li>\n<li>\nG-3PO: A protocol droid for Ghidra, or G…",
+    "url": "https://www.daemonology.net/hn-daily/2023-01-05.html",
+    "urlToImage": null,
+    "publishedAt": "2023-01-06T00:00:00Z",
+    "content": "The 10 highest-rated articles on\r\nHacker News\r\non January 05, 2023 which have not appeared on any previous\r\nHacker News Daily\r\nare:"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Cookingclassy.com"
+    },
+    "author": "Jaclyn",
+    "title": "Salmon Rice Bowls",
+    "description": "Salmon Rice Bowls – A layered bowl made up of tender jasmine rice, glazed teriyaki style salmon bites, asian cabbage slaw, fresh creamy avocado and crisp cucumber. Then for a final finishing touch everything is drizzled with a spicy sriracha mayo. It’s a flav…",
+    "url": "https://www.cookingclassy.com/salmon-rice-bowl/",
+    "urlToImage": "https://www.cookingclassy.com/wp-content/uploads/2023/01/salmon-rice-bowl-01.jpg",
+    "publishedAt": "2023-01-06T04:20:08Z",
+    "content": "Salmon Rice Bowls – A layered bowl made up of tender jasmine rice, glazed teriyaki style salmon bites, asian cabbage slaw, fresh creamy avocado and crisp cucumber. Then for a final finishing touch ev… [+6735 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Shiftdelete.net"
+    },
+    "author": "Yiğit Ali Demir",
+    "title": "Apple karma gerçeklik başlığı ile ilgili yeni iddia",
+    "description": "Ming-Chi Kuo, Apple karma gerçeklik başlığı ile ilgili yeni sızıntıları paylaştı. Şirket, yeni cihazını yılın ikinci yarısında tanıtacak.\nBu içerik ilk olarak Apple karma gerçeklik başlığı ile ilgili yeni iddia adresinde yayınlandı Teknoloji Haberleri - Shift…",
+    "url": "https://shiftdelete.net/apple-karma-gerceklik-basliginin-tanitim-tarihi-degisti",
+    "urlToImage": "https://shiftdelete.net/wp-content/uploads/2023/01/apple-karma-gerceklik-basliginin-tanitim-tarihi-degisti.jpg",
+    "publishedAt": "2023-01-06T05:50:33Z",
+    "content": "Geçtiimiz yl ortaya çkan szntlara göre Apple, karma gerçeklik bal için çalmalarn hzlandrd. Ünlü Analist Ming-Chi Kuo, Apple’n karma gerçeklik balnn tantm tarihi ile ilgili szntlar paylat.\r\nGeçtiimiz … [+2742 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Detoxinista.com"
+    },
+    "author": "Megan Gilmore",
+    "title": "Healthy Meal Prep Ideas",
+    "description": "These healthy meal prep ideas will make your life easier for the rest of the week! Includes a video, easy meal ideas + shopping list.",
+    "url": "https://detoxinista.com/healthy-meal-prep-ideas/",
+    "urlToImage": "https://detoxinista.com/wp-content/uploads/2023/01/healthy-meal-prep-ideas.jpg",
+    "publishedAt": "2023-01-06T00:11:10Z",
+    "content": "These healthy meal prep ideas will make your life easier for the rest of the week! With recipes for breakfast, lunch, dinner, and snacks, you’ll always have healthy options at your fingertips.\r\nIf th… [+18207 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "",
+    "title": "Apple TV 4K (2022) im Test",
+    "description": "Apples Zentrale für TV, Games und Smart Home rechnet schneller und streamt auch in HDR10+, verbraucht und kostet aber weniger als der Vorgänger.",
+    "url": "https://www.heise.de/select/ct/2023/2/2233308275785693849?wt_mc=rss.red.ct.themen.atom.beitrag.beitrag",
+    "urlToImage": "https://www.heise.de/select/ct/2023/2/2233308275785693849/appletv_123320_sha_digital.jpg",
+    "publishedAt": "2023-01-06T05:00:00Z",
+    "content": "Apples Zentrale für TV, Games und Smart Home rechnet schneller und streamt auch in HDR10+, verbraucht und kostet aber weniger als der Vorgänger. \r\nNach nur einem Jahr hat Apple seine Set-Top-Box Appl… [+604 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Onliner.by"
+    },
+    "author": "Onliner | Технологии",
+    "title": "Телевизоры, ИИ, датчики мочи. Что показывают на главной выставке технологий CES 2023",
+    "description": "Consumer Electronics Show — крупнейшая в мире выставка в области технологий, которая проходит в начале года в Лас-Вегасе. В этом году мероприятие проходит с 5 по 8 января, однако все основные анонсы уже состоялись. Оставшиеся дни, по сути, нужны для того, что…",
+    "url": "https://tech.onliner.by/2023/01/06/televizory-ii-datchiki-mochi-chto-pokazyvayut-na-glavnoj-vystavke-texnologij-ces-2023",
+    "urlToImage": "https://content.onliner.by/news/1400x5616/fec43b664b4e8c83477d5072f1bb18e1.jpeg",
+    "publishedAt": "2023-01-06T05:00:46Z",
+    "content": ": Instagram Onlíner \r\nConsumer Electronics Show , -. 5 8 , . , , , . CES 2023 , .\r\n- . , , Sony , LG Samsung ( ) .\r\nLG OLED- 97 . ( ), , . 4K- « » . HDMI.\r\n , . 10   . 4K 120 . . , $25 .\r\n , , 2023 B… [+1470 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Standblog.org"
+    },
+    "author": "Tristan",
+    "title": "Octet Vert S3E02 — Timothée Parrique sur la décroissance",
+    "description": "Un épisode un peu particulier à plusieurs égards, d’abord, c’est le premier de l’année 2023 (bonne année et meilleurs vœux aux auditeurs donc !), ensuite il dure près de 46",
+    "url": "https://www.standblog.org/blog/post/2023/01/06/Octet-Vert-S3E02-—-Timothee-Parrique-sur-la-decroissance",
+    "urlToImage": "https://standblog.org/dc-blog/public/2023/.Octet_Vert_S3E02_Tim_Parrique_petit_m.png",
+    "publishedAt": "2023-01-06T06:00:00Z",
+    "content": "Un épisode un peu particulier à plusieurs égards, d’abord, c’est le premier de l’année 2023 (bonne année et meilleurs vœux aux auditeurs donc !), ensuite il dure près de 46 minutes, car nous n’avons … [+3533 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Cnbeta.com.tw"
+    },
+    "author": null,
+    "title": "iPhone 14 Pro Max灵动岛陷“烧屏门” 网友吐槽秒变火烧岛",
+    "description": "在iPhone 14 Pro系列上，苹果动刀砍掉祖传的“刘海”设计，取而代之的是让人眼前一亮的“灵动岛”。然而，近日有海外用户表示，自己的iPhone 14 Pro Max灵动岛区域出现了烧屏问题。从图片来看，屏幕灵动岛边缘处出现了一道十分明显的残影。\r\n该用户称，联系了苹果售后，工作人员表示从未遇见过灵动岛烧屏的情况，好在这名用户购买了Apple Care+，因此换屏没有收费。值得注意的是，另一位网友也发帖称，刚买一个月不到的iPhone 14 Pro也出现了灵动岛烧屏。目前貌似还没有国内用户反馈这种烧屏问题，…",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1337805.htm",
+    "urlToImage": "https://static.cnbetacdn.com/article/2023/0106/1f2f58bd0bee35a.jpg",
+    "publishedAt": "2023-01-06T03:36:55Z",
+    "content": "iPhone 14 ProiPhone 14 Pro Max"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Cnbeta.com.tw"
+    },
+    "author": null,
+    "title": "戴尔希望到2024年逐步停止使用“中国制造”芯片",
+    "description": "据日经亚洲报道，美国计算机制造商戴尔的目标是到2024年停止使用中国制造的芯片，并已告知供应商大幅减少其产品中其他“中国制造”组件的数量。这家全球出货量第三大计算机制造商去年年底告诉供应商，它的目标是“显着降低”其使用的中国制造芯片的数量，包括那些在非中国芯片制造商拥有的工厂生产的芯片，三位直接了解此事的知情人士告诉日经亚洲。\r\n他们表示，戴尔的目标是到2024年，其产品中使用的所有芯片都在中国以外的工厂生产。此举是美国和中国之间的技术战争如何加速电子产品制造商将生产从亚洲最大经济体转移到多元化的最新例证。一位直…",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1337791.htm",
+    "urlToImage": "https://static.cnbetacdn.com/article/2022/0611/19fe2f75c3bb35f.jpg",
+    "publishedAt": "2023-01-06T03:35:47Z",
+    "content": "ThinkBook Wireless Dock 65W\r\n2023-01-06 750"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Eprice.com.hk"
+    },
+    "author": "虎仔 / 馬日山",
+    "title": "比 Apple 衛星通訊更強   Qualcomm Snapdragon Satellite 支援雙向收發",
+    "description": "去年華為和 Apple 分別為旗艦手機加入衛星連接功能，當中以支援全球多國的 iPhone 14 比較矚目，用戶在緊急情況下可以通過衛星，在沒有電訊網絡覆蓋的環境下發送求助訊息。剛剛 Qualcomm 宣佈 Snapdragon Satellite 功能，則將類似的衛星訊息服務向 Android 手機提供。",
+    "url": "https://www.eprice.com.hk/mobile/talk/4247/221000/1",
+    "urlToImage": "https://img.eprice.com.hk/img/news_hk/34370/big.jpg",
+    "publishedAt": "2023-01-06T05:56:37Z",
+    "content": "Apple iPhone 14 Qualcomm Snapdragon Satellite Android Iridium \r\nQualcomm Snapdragon Satellite Iridium 66 Apple Snapdragon Satellite SMS Qualcomm \r\nSnapdragon Satellite Snapdragon 8 Gen 2 Snapdragon X… [+62 chars]"
+    }
+    ]
+    }
