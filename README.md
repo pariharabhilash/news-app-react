@@ -17,3 +17,7 @@ created news app using [create-react-app](https://create-react-app.dev/docs/gett
 * Go inside cloned repository and run `npm install`
 * To start app run `npm run start` 
 * For more details visit [create-react-app](https://create-react-app.dev/docs/getting-started/)
+
+### Demo 
+
+visit  https://pariharabhilash.github.io/news-app-react/
