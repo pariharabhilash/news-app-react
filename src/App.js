@@ -1,12 +1,10 @@
 import "./App.css";
-import React, { useState } from "react";
+import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/NavBar";
 import News from "./components/News";
 
 const App = () => {
-  const pageSize = 5;
-  const apiKey = "";
   const routes = [
     "/",
     "/Business",

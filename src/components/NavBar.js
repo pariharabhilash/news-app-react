@@ -3,14 +3,14 @@ import { Link } from "react-router-dom";
 
 const Navbar = (props) => {
   const routes = [
-   {path: "/",data:{ category: "general" }},
-   {path: "/Business",data:{category:"business"}},
-    {path:"/Entertainment",data:{category:"entertainment"}},
-    {path:"/General",data:{category:"general"}},
-    {path:"/Health",data:{category:"Health"}},
-    {path:"/Science", data:{category:"science"}},
-    {path:"/Sports", data:{category:"sports"}},
-    {path:"/Technology", data:{category:"technology"}}
+    { path: "/", value: "Home", data: { category: "general" } },
+    { path: "/Business", value: "Business", data: { category: "business" } },
+    { path: "/Entertainment", value: "Entertainment", data: { category: "entertainment" } },
+    { path: "/General", value: "General", data: { category: "general" } },
+    { path: "/Health", value: "Health", data: { category: "Health" } },
+    { path: "/Science", value: "Science", data: { category: "science" } },
+    { path: "/Sports", value: "Sports", data: { category: "sports" } },
+    { path: "/Technology", value: "Technology", data: { category: "technology" } }
 
   ];
   return (
@@ -33,88 +33,22 @@ const Navbar = (props) => {
           </button>
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-              <li className="nav-item ">
-                <Link
-                  className="nav-link active"
-                  aria-current="page"
-                  key="Home"
-                  to="/"
-                  state={{ category: "general" }}
-                >
-                  Home
-                </Link>
-              </li>
-
-              <li className="nav-item">
-                <Link
-                  className="nav-link"
-                  key="Business"
-                  to="/Business"
-                  state={{ category: "business" }}
-                >
-                  Business
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link
-                  className="nav-link"
-                  key="Entertainment"
-                  to="/Entertainment"
-                  state={{ category: "entertainment" }}
-                >
-                  Entertainment
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link
-                  className="nav-link"
-                  key="General"
-                  to="/General"
-                  state={{ category: "general" }}
-                >
-                  General
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link
-                  className="nav-link"
-                  key="Health"
-                  to="/Health"
-                  state={{ category: "health" }}
-                >
-                  Health
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link
-                  className="nav-link"
-                  key="Science"
-                  to="/Science"
-                  state={{ category: "science" }}
-                >
-                  Science
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link
-                  className="nav-link"
-                  key="Sports"
-                  to="/Sports"
-                  state={{ category: "sports" }}
-                >
-                  Sports
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link
-                  className="nav-link"
-                  key="Technology"
-                  to="/Technology"
-                  state={{ category: "technology" }}
-                >
-                  Technology
-                </Link>
-              </li>
+              {
+                routes.map(({ value, path, data }) => {
+                  return (
+                    <li className="nav-item" key={value}>
+                      <Link
+                        className="nav-link active"
+                        aria-current="page"
+                        to={path}
+                        state={data}
+                      >
+                        {value}
+                      </Link>
+                    </li>
+                  )
+                })
+              }
             </ul>
           </div>
         </div>
